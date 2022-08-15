@@ -20,4 +20,3 @@ if (botaoImporta) {
 } else {
     throw Error("Botão importa não foi encontrado");
 }
- 
