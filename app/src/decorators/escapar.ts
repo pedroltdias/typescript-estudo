@@ -1,4 +1,4 @@
-export function escape() {
+export function escapar() {
     return function(
         target: any,
         propertyKey: string,
